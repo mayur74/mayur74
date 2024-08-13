@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @mayur74
-- 👀 I’m interested in learningcodes
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on my own 
+CS Student 
+Code 
+Learn 
+Repeat 
+Building a future one line at a time
+ 
 - 📫 How to reach me thoratmayu777@gmail.com
 
 <!---
