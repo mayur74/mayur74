@@ -1,9 +1,4 @@
-CS Student 
-Code 
-Learn 
-Repeat 
-Building a future one line at a time
- 
+CS Student | Code | Learn | Repeat | Building a future one line at a time 
 - 📫 How to reach me thoratmayu777@gmail.com
 
 <!---
